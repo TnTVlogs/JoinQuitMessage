@@ -1,0 +1,3 @@
+messages:
+  join_messsage: "&8[&a+&8] &7%player%"
+  quit_messsage: "&8[&c-&8] &7%player%"

@@ -1,0 +1,5 @@
+name: JoinActionBarMessage
+version: 1.0
+main: me.tntvlogs.joinactionbarmessage.Main
+author: TnTVlogs
+description: Sends a messages on action bar on joining.
